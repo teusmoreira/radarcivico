@@ -4185,8 +4185,9 @@
       <div class="pos" aria-hidden="true">${i + 1}</div>
 
       <div class="cand-avatar">
-        ${cand.foto ? `<img src="${cand.foto}" alt="Foto de ${cand.n}" loading="lazy" onerror="this.remove()">` : ''}
-        <span>${cand.n.slice(0, 2).toUpperCase()}</span>
+        ${cand.foto
+          ? `<img src="${cand.foto}" alt="Foto de ${cand.n}" loading="lazy" onerror="this.outerHTML='<span>${cand.n.slice(0, 2).toUpperCase()}</span>'">`
+          : `<span>${cand.n.slice(0, 2).toUpperCase()}</span>`}
       </div>
 
       <div class="who">
