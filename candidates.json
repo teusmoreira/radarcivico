@@ -1,0 +1,999 @@
+[
+  {
+    "_id": "sp_campinas_dario_saadi",
+    "id": "dario_saadi",
+    "n": "Dário Saadi",
+    "numero": "10",
+    "partido": "Republicanos",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "Campinas",
+    "perfil": "Médico, Gestão Hospitalar e Continuidade",
+    "foto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      6,
+      7,
+      3,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Consolidação e ampliação do Hospital Municipal Mário Gatti e do hospital pediátrico Mário Gattinho, com descentralização de consultas especializadas e novos leitos.",
+      "educacao": "Ampliação contínua das escolas em tempo integral na rede municipal de Campinas e construção de creches para zerar a fila de espera na primeira infância.",
+      "seguranca": "Fortalecimento da Guarda Municipal com convocação de novos agentes, novas viaturas blindadas e inteligência tática nas ruas.",
+      "mobilidade": "Renovação gradual da frota do transporte público com ônibus elétricos menos poluentes e avanço das faixas exclusivas do BRT Metropolitano."
+    },
+    "tags": [
+      "Saúde",
+      "Segurança",
+      "Educação"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Consolidação e ampliação do Hospital Municipal Mário Gatti e do hospital pediátrico Mário Gattinho, com descentralização de consultas especializadas e novos leitos.",
+      "seguranca": "Fortalecimento da Guarda Municipal com convocação de novos agentes, novas viaturas blindadas e inteligência tática nas ruas.",
+      "educacao": "Ampliação contínua das escolas em tempo integral na rede municipal de Campinas e construção de creches para zerar a fila de espera na primeira infância."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.933432"
+  },
+  {
+    "_id": "sp_campinas_pedro_tourinho",
+    "id": "pedro_tourinho",
+    "n": "Pedro Tourinho",
+    "numero": "13",
+    "partido": "PT",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "Campinas",
+    "perfil": "Médico Sanitarista, Saúde Preventiva e Direitos Sociais",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      7,
+      4,
+      9,
+      4,
+      1,
+      2,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Reestruturação total da Atenção Básica em Campinas com fortalecimento das Unidades Básicas de Saúde (UBSs) e ampliação expressiva de médicos da Saúde da Família.",
+      "educacao": "Mutirões de construção de escolas de educação infantil em bairros periféricos para garantir creche pública para 100% das crianças de famílias trabalhadoras.",
+      "seguranca": "Segurança cidadã com urbanismo preventivo: iluminação pública de LED em bairros vulneráveis, praças iluminadas e programas socioeducativos para jovens.",
+      "mobilidade": "Tarifa zero progressiva no transporte municipal e integração dos terminais com ciclovias seguras.",
+      "moradia": "Programa urgente de regularização fundiária de loteamentos informais e urbanização das ocupações com saneamento e asfalto."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Reestruturação total da Atenção Básica em Campinas com fortalecimento das Unidades Básicas de Saúde (UBSs) e ampliação expressiva de médicos da Saúde da Família.",
+      "seguranca": "Segurança cidadã com urbanismo preventivo: iluminação pública de LED em bairros vulneráveis, praças iluminadas e programas socioeducativos para jovens.",
+      "educacao": "Mutirões de construção de escolas de educação infantil em bairros periféricos para garantir creche pública para 100% das crianças de famílias trabalhadoras."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.943977"
+  },
+  {
+    "_id": "sp_campinas_rafa_zimbaldi",
+    "id": "rafa_zimbaldi",
+    "n": "Rafa Zimbaldi",
+    "numero": "23",
+    "partido": "Cidadania",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "Campinas",
+    "perfil": "Articulação Parlamentar, Obras e Eficiência Fiscal",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      5,
+      9,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Otimização rigorosa dos contratos de gestão de saúde pública e auditoria nas filas de cirurgias eletivas represadas em Campinas.",
+      "educacao": "Parcerias imediatas com creches conveniadas do terceiro setor para zerar no primeiro mês o déficit de vagas para crianças.",
+      "seguranca": "Aumento expressivo do efetivo armado da Guarda Municipal com bases comunitárias móveis em centros comerciais e corredores bancários.",
+      "mobilidade": "Revisão dos contratos das empresas de ônibus para exigir cumprimento estrito de horários e ar-condicionado em 100% da frota."
+    },
+    "tags": [
+      "Saúde",
+      "Segurança",
+      "Educação"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Otimização rigorosa dos contratos de gestão de saúde pública e auditoria nas filas de cirurgias eletivas represadas em Campinas.",
+      "seguranca": "Aumento expressivo do efetivo armado da Guarda Municipal com bases comunitárias móveis em centros comerciais e corredores bancários.",
+      "educacao": "Parcerias imediatas com creches conveniadas do terceiro setor para zerar no primeiro mês o déficit de vagas para crianças."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.954988"
+  },
+  {
+    "_id": "sp_são_paulo_ricardo_nunes",
+    "id": "ricardo_nunes",
+    "n": "Ricardo Nunes",
+    "numero": "15",
+    "partido": "MDB",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Infraestrutura Urbana, Investimentos e Parcerias",
+    "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      7,
+      9,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Modernização e reformas de mais de 80 Unidades Básicas de Saúde (UBSs) e conclusão das obras dos novos hospitais municipais.",
+      "educacao": "Manutenção da fila zero na educação infantil com vagas garantidas em creches e expansão do programa de escolas de tempo integral.",
+      "seguranca": "Expansão maciça do programa Smart Sampa com mais de 20 mil câmeras de monitoramento inteligente e reconhecimento facial integradas à GCM e PM.",
+      "mobilidade": "Implantação do sistema Faixa Azul para motociclistas em grandes avenidas para zerar mortes no trânsito e ampliação dos corredores de ônibus."
+    },
+    "tags": [
+      "Segurança",
+      "Educação",
+      "Saúde"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Modernização e reformas de mais de 80 Unidades Básicas de Saúde (UBSs) e conclusão das obras dos novos hospitais municipais.",
+      "seguranca": "Expansão maciça do programa Smart Sampa com mais de 20 mil câmeras de monitoramento inteligente e reconhecimento facial integradas à GCM e PM.",
+      "educacao": "Manutenção da fila zero na educação infantil com vagas garantidas em creches e expansão do programa de escolas de tempo integral."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.964643"
+  },
+  {
+    "_id": "sp_são_paulo_guilherme_boulos",
+    "id": "guilherme_boulos",
+    "n": "Guilherme Boulos",
+    "numero": "50",
+    "partido": "PSOL",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Habitação Popular, Inclusão Social e Serviços Públicos",
+    "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      3,
+      5,
+      5,
+      1,
+      2,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Criação do 'Poupatempo da Saúde' em todas as subprefeituras de São Paulo com exames, consultas especializadas e entrega de remédios com hora marcada.",
+      "educacao": "Construção de Centros Educacionais Unificados (CEUs) nas áreas mais vulneráveis e expansão das creches municipais de gestão direta.",
+      "seguranca": "Dobrar o efetivo da Guarda Civil Metropolitana (GCM) com direcionamento prioritário para o patrulhamento a pé e em bicicletas no comércio e escolas.",
+      "mobilidade": "Tarifa Zero aos domingos no transporte público por ônibus e ampliação de faixas exclusivas.",
+      "moradia": "Transformação de imóveis abandonados e prédios vazios do centro expandido em habitação de interesse social e moradia digna."
+    },
+    "tags": [
+      "Saúde",
+      "Segurança",
+      "Mobilidade"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Criação do 'Poupatempo da Saúde' em todas as subprefeituras de São Paulo com exames, consultas especializadas e entrega de remédios com hora marcada.",
+      "seguranca": "Dobrar o efetivo da Guarda Civil Metropolitana (GCM) com direcionamento prioritário para o patrulhamento a pé e em bicicletas no comércio e escolas.",
+      "educacao": "Construção de Centros Educacionais Unificados (CEUs) nas áreas mais vulneráveis e expansão das creches municipais de gestão direta."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.975629"
+  },
+  {
+    "_id": "sp_são_paulo_tabata_amaral",
+    "id": "tabata_amaral",
+    "n": "Tabata Amaral",
+    "numero": "40",
+    "partido": "PSB",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Educação Pública, Inovação Tecnológica e Gestão Técnica",
+    "foto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      6,
+      9,
+      7,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "p": {
+      "saude": "Digitalização integrada do prontuário eletrônico municipal de saúde para acabar com perdas de exames e filas duplicadas no SUS da capital.",
+      "educacao": "Revolução pedagógica no ensino fundamental com ensino de programação, robótica e habilidades socioemocionais desde os primeiros anos.",
+      "seguranca": "Policiamento inteligente baseado em dados: reorientação da GCM para manchas criminais prioritárias e iluminação pública intensificada nas saídas do metrô.",
+      "mobilidade": "Expansão de corredores expressos de ônibus elétricos e integração tarifária multimodal com ciclovias.",
+      "emprego": "Incubadoras públicas municipais de startups nos bairros mais afastados para gerar empregos qualificados perto de casa."
+    },
+    "tags": [
+      "Educação",
+      "Segurança",
+      "Saúde"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Digitalização integrada do prontuário eletrônico municipal de saúde para acabar com perdas de exames e filas duplicadas no SUS da capital.",
+      "seguranca": "Policiamento inteligente baseado em dados: reorientação da GCM para manchas criminais prioritárias e iluminação pública intensificada nas saídas do metrô.",
+      "educacao": "Revolução pedagógica no ensino fundamental com ensino de programação, robótica e habilidades socioemocionais desde os primeiros anos."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.985215"
+  },
+  {
+    "_id": "rj_rio_de_janeiro_eduardo_paes",
+    "id": "eduardo_paes",
+    "n": "Eduardo Paes",
+    "numero": "55",
+    "partido": "PSD",
+    "cargo": "prefeito",
+    "uf": "RJ",
+    "cidade": "Rio de Janeiro",
+    "perfil": "Grandes Obras, Saúde Familiar e Revitalização",
+    "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      5,
+      9,
+      5,
+      4,
+      1,
+      2,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Expansão dos Super Centros Cariocas de Saúde para as Zonas Norte e Oeste do Rio, reduzindo o tempo de espera de cirurgias e exames de imagem.",
+      "educacao": "Meta de atingir 70% dos alunos da rede municipal do Rio em escolas de tempo integral e expansão dos Ginásios Educacionais Tecnológicos (GETs).",
+      "seguranca": "Revitalização da iluminação pública por meio de lâmpadas de LED de alta potência em favelas e ruas com alta incidência de assaltos.",
+      "mobilidade": "Reativação e conclusão da renovação total do sistema BRT Transbrasil, Transolímpica e Transoeste com novos ônibus articulados.",
+      "moradia": "Programa Porto Maravilha Residencial e revitalização do centro histórico carioca com incentivo à habitação popular."
+    },
+    "tags": [
+      "Educação",
+      "Saúde",
+      "Segurança"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Expansão dos Super Centros Cariocas de Saúde para as Zonas Norte e Oeste do Rio, reduzindo o tempo de espera de cirurgias e exames de imagem.",
+      "seguranca": "Revitalização da iluminação pública por meio de lâmpadas de LED de alta potência em favelas e ruas com alta incidência de assaltos.",
+      "educacao": "Meta de atingir 70% dos alunos da rede municipal do Rio em escolas de tempo integral e expansão dos Ginásios Educacionais Tecnológicos (GETs)."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:30.995029"
+  },
+  {
+    "_id": "rj_rio_de_janeiro_alexandre_ramagem",
+    "id": "alexandre_ramagem",
+    "n": "Alexandre Ramagem",
+    "numero": "22",
+    "partido": "PL",
+    "cargo": "prefeito",
+    "uf": "RJ",
+    "cidade": "Rio de Janeiro",
+    "perfil": "Segurança Pública, Combate a Facções e Ordem Urbana",
+    "foto": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      5,
+      9,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "p": {
+      "saude": "Abastecimento contínuo e sem interrupções de medicamentos e insumos essenciais em todos os postos de saúde cariocas.",
+      "educacao": "Implantação de turno integral de 7 a 10 horas nas escolas municipais localizadas em comunidades pacificadas e áreas sob vulnerabilidade social.",
+      "seguranca": "Armamento integral e modernização tática da Guarda Municipal do Rio para atuar no patrulhamento ostensivo em parceria com a Polícia Militar.",
+      "mobilidade": "Auditoria nos contratos de concessão das linhas de ônibus e combate ao monopólio das empresas de transporte coletivo.",
+      "emprego": "Redução de impostos municipais e incentivo fiscal para empresas que investirem nas zonas suburbanas do Rio."
+    },
+    "tags": [
+      "Segurança",
+      "Educação",
+      "Saúde"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Abastecimento contínuo e sem interrupções de medicamentos e insumos essenciais em todos os postos de saúde cariocas.",
+      "seguranca": "Armamento integral e modernização tática da Guarda Municipal do Rio para atuar no patrulhamento ostensivo em parceria com a Polícia Militar.",
+      "educacao": "Implantação de turno integral de 7 a 10 horas nas escolas municipais localizadas em comunidades pacificadas e áreas sob vulnerabilidade social."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.005338"
+  },
+  {
+    "_id": "mg_belo_horizonte_fuad_noman",
+    "id": "fuad_noman",
+    "n": "Fuad Noman",
+    "numero": "55",
+    "partido": "PSD",
+    "cargo": "prefeito",
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "perfil": "Gestão Orçamentária, Macrodrenagem e Equilíbrio",
+    "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      7,
+      6,
+      9,
+      3,
+      2,
+      1,
+      3,
+      1
+    ],
+    "p": {
+      "saude": "Expansão e reforma das UPAs municipais e dos Centros de Saúde de Belo Horizonte, com ampliação de equipes de saúde da família.",
+      "educacao": "Ampliação das Escolas Municipais de Educação Infantil (EMEIs) para zerar a fila de creches na capital mineira.",
+      "seguranca": "Fortalecimento da Guarda Municipal de BH com modernização de viaturas e patrulhamento preventivo em parques e estações de ônibus.",
+      "mobilidade": "Subsídio ao transporte por ônibus condicionado ao aumento de viagens, pontualidade e veículos com ar-condicionado.",
+      "saneamento": "Obras históricas de contenção de enchentes nas bacias do córrego Vilarinho e Ferrugem, evitando tragédias na época de chuvas.",
+      "emprego": "Qualificação profissional técnica voltada para o setor de serviços e gastronomia de Belo Horizonte."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 6,
+    "propostas_destaque": {
+      "saude": "Expansão e reforma das UPAs municipais e dos Centros de Saúde de Belo Horizonte, com ampliação de equipes de saúde da família.",
+      "seguranca": "Fortalecimento da Guarda Municipal de BH com modernização de viaturas e patrulhamento preventivo em parques e estações de ônibus.",
+      "educacao": "Ampliação das Escolas Municipais de Educação Infantil (EMEIs) para zerar a fila de creches na capital mineira."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.014960"
+  },
+  {
+    "_id": "ba_salvador_bruno_reis",
+    "id": "bruno_reis",
+    "n": "Bruno Reis",
+    "numero": "44",
+    "partido": "União Brasil",
+    "cargo": "prefeito",
+    "uf": "BA",
+    "cidade": "Salvador",
+    "perfil": "Gestão Popular, Turismo e Obras Urbanas",
+    "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      6,
+      9,
+      6,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Ampliação de Unidades de Pronto Atendimento (UPAs) e oferta de farmácias com medicamentos essenciais 24 horas.",
+      "educacao": "Universalização do acesso a creches por meio do programa Pé na Escola e expansão das escolas em tempo integral com refeições de alto padrão.",
+      "seguranca": "Instalação de totens de segurança e monitoramento por câmeras de reconhecimento facial nos principais eixos turísticos e populares.",
+      "mobilidade": "Continuidade na ampliação do sistema BRT de Salvador e integração física com o metrô metropolitano."
+    },
+    "tags": [
+      "Educação",
+      "Saúde",
+      "Segurança"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Ampliação de Unidades de Pronto Atendimento (UPAs) e oferta de farmácias com medicamentos essenciais 24 horas.",
+      "seguranca": "Instalação de totens de segurança e monitoramento por câmeras de reconhecimento facial nos principais eixos turísticos e populares.",
+      "educacao": "Universalização do acesso a creches por meio do programa Pé na Escola e expansão das escolas em tempo integral com refeições de alto padrão."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.024728"
+  },
+  {
+    "_id": "pe_recife_joao_campos",
+    "id": "joao_campos",
+    "n": "João Campos",
+    "numero": "40",
+    "partido": "PSB",
+    "cargo": "prefeito",
+    "uf": "PE",
+    "cidade": "Recife",
+    "perfil": "Inovação Digital, Educação e Infraestrutura Social",
+    "foto": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      9,
+      9,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Ampliação do Hospital da Mulher e dos Centros Comunitários da Paz (COMPAZ) com serviços integrados de saúde e assistência familiar.",
+      "educacao": "Triplicação das vagas de creche com a construção de novas unidades nas comunidades e climatização de 100% das salas de aula.",
+      "seguranca": "Iluminação 100% LED em todas as comunidades e reforço na segurança patrimonial da Guarda Municipal nas praças.",
+      "saneamento": "Obras de macrodrenagem e intervenções nos canais fluviais para mitigar enchentes e marés altas no Recife."
+    },
+    "tags": [
+      "Saúde",
+      "Educação",
+      "Segurança"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Ampliação do Hospital da Mulher e dos Centros Comunitários da Paz (COMPAZ) com serviços integrados de saúde e assistência familiar.",
+      "seguranca": "Iluminação 100% LED em todas as comunidades e reforço na segurança patrimonial da Guarda Municipal nas praças.",
+      "educacao": "Triplicação das vagas de creche com a construção de novas unidades nas comunidades e climatização de 100% das salas de aula."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.034627"
+  },
+  {
+    "_id": "pr_curitiba_eduardo_pimentel",
+    "id": "eduardo_pimentel",
+    "n": "Eduardo Pimentel",
+    "numero": "55",
+    "partido": "PSD",
+    "cargo": "prefeito",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "perfil": "Planejamento Urbano, Sustentabilidade e Serviços Públicos",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      5,
+      6,
+      9,
+      3,
+      1,
+      1,
+      1,
+      4
+    ],
+    "p": {
+      "saude": "Fortalecimento das Unidades de Pronto Atendimento (UPAs) de Curitiba e expansão do teleatendimento com médicos da família.",
+      "educacao": "Ampliação das escolas em tempo integral com Faróis do Saber e inovação tecnológica e sustentável para os estudantes.",
+      "seguranca": "Integração da Muralha Digital de Curitiba com inteligência artificial preventiva e novas viaturas para a Guarda Municipal.",
+      "mobilidade": "Eletrificação contínua da frota de ônibus ligeirinhos e biarticulados com ônibus 100% elétricos e ciclovias conectadas.",
+      "ambiente": "Manutenção de áreas verdes, preservação de parques municipais e fomento à reciclagem de resíduos sólidos."
+    },
+    "tags": [
+      "Segurança",
+      "Educação",
+      "Saúde"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Fortalecimento das Unidades de Pronto Atendimento (UPAs) de Curitiba e expansão do teleatendimento com médicos da família.",
+      "seguranca": "Integração da Muralha Digital de Curitiba com inteligência artificial preventiva e novas viaturas para a Guarda Municipal.",
+      "educacao": "Ampliação das escolas em tempo integral com Faróis do Saber e inovação tecnológica e sustentável para os estudantes."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.044718"
+  },
+  {
+    "_id": "sp_cotia_angela_maluf",
+    "id": "angela_maluf",
+    "n": "Ângela Maluf",
+    "numero": "55",
+    "partido": "PSD",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "Cotia",
+    "perfil": "Desenvolvimento Social, Saúde Básica e Educação",
+    "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      7,
+      7,
+      9,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Ampliação do Hospital Regional de Cotia e das UBSs dos distritos de Caucaia do Alto e Granja Viana com mais médicos especialistas.",
+      "educacao": "Abertura de novas creches municipais e ampliação das vagas em berçários para as mães trabalhadoras de Cotia.",
+      "seguranca": "Instalação de totens de segurança com câmeras conectadas ao centro de monitoramento urbano em Caucaia e Granja Viana.",
+      "mobilidade": "Reivindicação e diálogo junto ao Governo Estadual para melhorias na fluidez da Rodovia Raposo Tavares.",
+      "saneamento": "Obras de canalização e limpeza de córregos para combater enchentes nos períodos de fortes chuvas em Cotia."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Ampliação do Hospital Regional de Cotia e das UBSs dos distritos de Caucaia do Alto e Granja Viana com mais médicos especialistas.",
+      "seguranca": "Instalação de totens de segurança com câmeras conectadas ao centro de monitoramento urbano em Caucaia e Granja Viana.",
+      "educacao": "Abertura de novas creches municipais e ampliação das vagas em berçários para as mães trabalhadoras de Cotia."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.053711"
+  },
+  {
+    "_id": "sp_cotia_wellington_formigoni",
+    "id": "wellington_formigoni",
+    "n": "Wellington Formigoni",
+    "numero": "10",
+    "partido": "Republicanos",
+    "cargo": "prefeito",
+    "uf": "SP",
+    "cidade": "Cotia",
+    "perfil": "Segurança Comunitária, Descentralização e Gestão",
+    "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      9,
+      5,
+      4,
+      1,
+      1,
+      2,
+      1
+    ],
+    "p": {
+      "saude": "Auditoria e reorganização dos postos de atendimento de saúde de Cotia para garantir remédios contínuos nas farmácias populares.",
+      "educacao": "Construção de creches modulares de instalação rápida para suprir a demanda urgente de vagas infantis nos bairros periféricos.",
+      "seguranca": "Armamento, capacitação e aumento substancial do efetivo da Guarda Civil Municipal de Cotia com foco em rondas escolares.",
+      "mobilidade": "Reestruturação das linhas municipais de micro-ônibus e transporte alternativo para atender bairros distantes.",
+      "emprego": "Incentivos fiscais para atração de polos logísticos e indústrias para gerar empregos formais na cidade de Cotia."
+    },
+    "tags": [
+      "Saúde",
+      "Educação",
+      "Segurança"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Auditoria e reorganização dos postos de atendimento de saúde de Cotia para garantir remédios contínuos nas farmácias populares.",
+      "seguranca": "Armamento, capacitação e aumento substancial do efetivo da Guarda Civil Municipal de Cotia com foco em rondas escolares.",
+      "educacao": "Construção de creches modulares de instalação rápida para suprir a demanda urgente de vagas infantis nos bairros periféricos."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.063703"
+  },
+  {
+    "_id": "sp_são_paulo_tarcisio_freitas",
+    "id": "tarcisio_freitas",
+    "n": "Tarcísio de Freitas",
+    "numero": "10",
+    "partido": "Republicanos",
+    "cargo": "governador",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Infraestrutura Regional, Segurança Pública e Desestatização",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      8,
+      9,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Ampliação dos Hospitais Regionais e criação das policlínicas estaduais de diagnóstico para exames de alta complexidade em todas as regiões administrativas de São Paulo.",
+      "educacao": "Expansão contínua do modelo de escolas estaduais em tempo integral e foco no ensino profissionalizante integrado às empresas.",
+      "seguranca": "Investimento massivo no policiamento ostensivo da Polícia Militar, valorização salarial das polícias e tecnologia de reconhecimento facial.",
+      "mobilidade": "Concessão e investimentos em ferrovias intercidades (TIC São Paulo-Campinas) e expansão das linhas do Metrô e CPTM.",
+      "saneamento": "Aceleração de obras de saneamento básico para cumprir as metas do Marco Legal do Saneamento nos municípios paulistas."
+    },
+    "tags": [
+      "Segurança",
+      "Educação",
+      "Saúde"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Ampliação dos Hospitais Regionais e criação das policlínicas estaduais de diagnóstico para exames de alta complexidade em todas as regiões administrativas de São Paulo.",
+      "seguranca": "Investimento massivo no policiamento ostensivo da Polícia Militar, valorização salarial das polícias e tecnologia de reconhecimento facial.",
+      "educacao": "Expansão contínua do modelo de escolas estaduais em tempo integral e foco no ensino profissionalizante integrado às empresas."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.075177"
+  },
+  {
+    "_id": "rj_rio_de_janeiro_claudio_castro",
+    "id": "claudio_castro",
+    "n": "Cláudio Castro",
+    "numero": "22",
+    "partido": "PL",
+    "cargo": "governador",
+    "uf": "RJ",
+    "cidade": "Rio de Janeiro",
+    "perfil": "Segurança Integrada, Infraestrutura e Apoio aos Municípios",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      9,
+      7,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Reforma e reequipamento dos grandes hospitais estaduais (Alberto Torres, Azevedo Lima, Getúlio Vargas) com leitos de UTI humanizados.",
+      "educacao": "Ampliação das escolas estaduais com educação profissionalizante e tecnológica (FAETEC) e expansão de escolas de tempo integral.",
+      "seguranca": "Aumento de recursos e armamento para a Polícia Militar e Polícia Civil no combate ao narcotráfico e milícias armadas no RJ.",
+      "mobilidade": "Supervisão e cobrança rigorosa de melhorias no sistema ferroviário da SuperVia e metrô de superfície.",
+      "saneamento": "Obras de saneamento e despoluição da Baía de Guanabara e bacias hidrográficas estaduais."
+    },
+    "tags": [
+      "Educação",
+      "Segurança",
+      "Saúde"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Reforma e reequipamento dos grandes hospitais estaduais (Alberto Torres, Azevedo Lima, Getúlio Vargas) com leitos de UTI humanizados.",
+      "seguranca": "Aumento de recursos e armamento para a Polícia Militar e Polícia Civil no combate ao narcotráfico e milícias armadas no RJ.",
+      "educacao": "Ampliação das escolas estaduais com educação profissionalizante e tecnológica (FAETEC) e expansão de escolas de tempo integral."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.084164"
+  },
+  {
+    "_id": "mg_belo_horizonte_romeu_zema",
+    "id": "romeu_zema",
+    "n": "Romeu Zema",
+    "numero": "30",
+    "partido": "NOVO",
+    "cargo": "governador",
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "perfil": "Austeridade Fiscal, Desburocratização e Ensino Técnico",
+    "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      4,
+      9,
+      5,
+      1,
+      1,
+      3,
+      1
+    ],
+    "p": {
+      "saude": "Descentralização dos recursos de saúde para municípios através do programa 'Valadares e Saúde em Rede'.",
+      "educacao": "Melhoria dos índices do IDEB mineiro através de metas e gestão eficiente das escolas estaduais.",
+      "seguranca": "Digitalização dos boletins de ocorrência e investimentos em perícia técnica e inteligência da Polícia Civil.",
+      "mobilidade": "Expansão recorde do programa 'Trilhas de Futuro' oferecendo cursos técnicos gratuitos com auxílio transporte e alimentação para jovens.",
+      "emprego": "Desburocratização e simplificação de licenças ambientais e tributárias para atração de novos investimentos privados."
+    },
+    "tags": [
+      "Saúde",
+      "Segurança",
+      "Mobilidade"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Descentralização dos recursos de saúde para municípios através do programa 'Valadares e Saúde em Rede'.",
+      "seguranca": "Digitalização dos boletins de ocorrência e investimentos em perícia técnica e inteligência da Polícia Civil.",
+      "educacao": "Melhoria dos índices do IDEB mineiro através de metas e gestão eficiente das escolas estaduais."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.094587"
+  },
+  {
+    "_id": "ba_salvador_jeronimo_rodrigues",
+    "id": "jeronimo_rodrigues",
+    "n": "Jerônimo Rodrigues",
+    "numero": "13",
+    "partido": "PT",
+    "cargo": "governador",
+    "uf": "BA",
+    "cidade": "Salvador",
+    "perfil": "Desenvolvimento do Semiárido, Educação Integral e Saúde Regional",
+    "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      4,
+      9,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Interiorização dos serviços de alta complexidade com os novos Hospitais Regionais e policlínicas de saúde consorciadas no interior da Bahia.",
+      "educacao": "Construção de novos colégios estaduais de tempo integral com quadras cobertas, piscinas e laboratórios de informática em todos os municípios.",
+      "seguranca": "Instalação de câmeras de monitoramento inteligente e criação de forças-tarefa integradas contra o crime organizado nas grandes cidades baianas.",
+      "mobilidade": "Construção e pavimentação de rodovias de integração regional e avanço das obras do VLT em Salvador.",
+      "saneamento": "Programas de convivência com o semiárido, cisternas para comunidades rurais e universalização do abastecimento de água potável (Embasa)."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Interiorização dos serviços de alta complexidade com os novos Hospitais Regionais e policlínicas de saúde consorciadas no interior da Bahia.",
+      "seguranca": "Instalação de câmeras de monitoramento inteligente e criação de forças-tarefa integradas contra o crime organizado nas grandes cidades baianas.",
+      "educacao": "Construção de novos colégios estaduais de tempo integral com quadras cobertas, piscinas e laboratórios de informática em todos os municípios."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.104169"
+  },
+  {
+    "_id": "sp_são_paulo_marcos_pontes",
+    "id": "marcos_pontes",
+    "n": "Marcos Pontes",
+    "numero": "222",
+    "partido": "PL",
+    "cargo": "senador",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Ciência, Tecnologia e Defesa Nacional",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      9,
+      6,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Destinação de emendas parlamentares para modernização de laboratórios de hospitais universitários e centros de pesquisa oncológica no SUS.",
+      "educacao": "Projetos de lei para incentivo ao ensino de ciências, matemática e tecnologia (STEM) nas escolas públicas de educação básica.",
+      "seguranca": "Endurecimento das leis penais para crimes hediondos e aumento de penas para corrupção e tráfico de drogas."
+    },
+    "tags": [
+      "Saúde",
+      "Educação",
+      "Segurança"
+    ],
+    "propostas_total": 3,
+    "propostas_destaque": {
+      "saude": "Destinação de emendas parlamentares para modernização de laboratórios de hospitais universitários e centros de pesquisa oncológica no SUS.",
+      "seguranca": "Endurecimento das leis penais para crimes hediondos e aumento de penas para corrupção e tráfico de drogas.",
+      "educacao": "Projetos de lei para incentivo ao ensino de ciências, matemática e tecnologia (STEM) nas escolas públicas de educação básica."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.113721"
+  },
+  {
+    "_id": "rj_rio_de_janeiro_romario_faria",
+    "id": "romario_faria",
+    "n": "Romário Faria",
+    "numero": "222",
+    "partido": "PL",
+    "cargo": "senador",
+    "uf": "RJ",
+    "cidade": "Rio de Janeiro",
+    "perfil": "Saúde Especializada, Inclusão de Pessoas com Deficiência e Esporte",
+    "foto": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      8,
+      9,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Legislação federal e emendas parlamentares para garantir medicamentos de alto custo e tratamento para doenças raras no SUS.",
+      "educacao": "Fortalecimento da educação inclusiva e capacitação de mediadores pedagógicos para alunos com deficiência nas escolas públicas.",
+      "seguranca": "Destinação de verbas federais para segurança pública comunitária e reaparelhamento da polícia e da guarda civil no RJ."
+    },
+    "tags": [
+      "Segurança",
+      "Educação",
+      "Saúde"
+    ],
+    "propostas_total": 3,
+    "propostas_destaque": {
+      "saude": "Legislação federal e emendas parlamentares para garantir medicamentos de alto custo e tratamento para doenças raras no SUS.",
+      "seguranca": "Destinação de verbas federais para segurança pública comunitária e reaparelhamento da polícia e da guarda civil no RJ.",
+      "educacao": "Fortalecimento da educação inclusiva e capacitação de mediadores pedagógicos para alunos com deficiência nas escolas públicas."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.124063"
+  },
+  {
+    "_id": "sp_são_paulo_guilherme_derrite",
+    "id": "guilherme_derrite",
+    "n": "Guilherme Derrite",
+    "numero": "2200",
+    "partido": "PL",
+    "cargo": "federal",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Segurança Pública, Combate às Facções e Rigor Penal",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      4,
+      2,
+      9,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "p": {
+      "saude": "Emendas parlamentares para custeio de unidades de pronto atendimento e hospitais municipais no interior paulista.",
+      "educacao": "Escolas cívico-militares com disciplina e foco em valores cívicos e resultados no aprendizado.",
+      "seguranca": "Aumento de recursos federais do Fundo Nacional de Segurança Pública para armamento moderno e viaturas da polícia e guardas municipais.",
+      "emprego": "Redução de impostos federais para micro e pequenas empresas para gerar mais empregos formais."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Emendas parlamentares para custeio de unidades de pronto atendimento e hospitais municipais no interior paulista.",
+      "seguranca": "Aumento de recursos federais do Fundo Nacional de Segurança Pública para armamento moderno e viaturas da polícia e guardas municipais.",
+      "educacao": "Escolas cívico-militares com disciplina e foco em valores cívicos e resultados no aprendizado."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.133029"
+  },
+  {
+    "_id": "sp_são_paulo_erika_hilton",
+    "id": "erika_hilton",
+    "n": "Erika Hilton",
+    "numero": "5000",
+    "partido": "PSOL",
+    "cargo": "federal",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Direitos Humanos, Saúde Integral e Educação Inclusiva",
+    "foto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      3,
+      9,
+      6,
+      1,
+      1,
+      4,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Defesa irrestrita do orçamento do SUS, ampliação da atenção psicossocial e garantia de atendimento humanizado para populações vulneráveis.",
+      "educacao": "Mais verbas federais para alimentação escolar saudável e ampliação de creches e escolas em tempo integral nas periferias.",
+      "seguranca": "Segurança cidadã com controle rigoroso do uso da força policial, desmilitarização e políticas de prevenção social à juventude.",
+      "moradia": "Subsídios federais diretos para programas de habitação popular e urbanização de favelas."
+    },
+    "tags": [
+      "Educação",
+      "Segurança",
+      "Moradia"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Defesa irrestrita do orçamento do SUS, ampliação da atenção psicossocial e garantia de atendimento humanizado para populações vulneráveis.",
+      "seguranca": "Segurança cidadã com controle rigoroso do uso da força policial, desmilitarização e políticas de prevenção social à juventude.",
+      "educacao": "Mais verbas federais para alimentação escolar saudável e ampliação de creches e escolas em tempo integral nas periferias."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.142354"
+  },
+  {
+    "_id": "sp_são_paulo_carlos_giannazi",
+    "id": "carlos_giannazi",
+    "n": "Carlos Giannazi",
+    "numero": "50123",
+    "partido": "PSOL",
+    "cargo": "estadual",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Educação Pública, Valorização do Magistério e Servidores",
+    "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      9,
+      4,
+      7,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "p": {
+      "saude": "Cobrança de concursos públicos urgentes para médicos, enfermeiros e especialistas no Hospital das Clínicas e hospitais estaduais.",
+      "educacao": "Defesa intransigente do piso salarial dos professores e revogação das reformas que precarizam a carreira docente em SP.",
+      "seguranca": "Iluminação e rondas comunitárias de segurança no entorno de colégios públicos e campi universitários.",
+      "mobilidade": "Garantia de gratuidade no transporte público sobre trilhos para estudantes e idosos.",
+      "saneamento": "Proteção das reservas ambientais estaduais e mananciais contra a especulação imobiliária."
+    },
+    "tags": [
+      "Saúde",
+      "Segurança",
+      "Educação"
+    ],
+    "propostas_total": 5,
+    "propostas_destaque": {
+      "saude": "Cobrança de concursos públicos urgentes para médicos, enfermeiros e especialistas no Hospital das Clínicas e hospitais estaduais.",
+      "seguranca": "Iluminação e rondas comunitárias de segurança no entorno de colégios públicos e campi universitários.",
+      "educacao": "Defesa intransigente do piso salarial dos professores e revogação das reformas que precarizam a carreira docente em SP."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.151343"
+  },
+  {
+    "_id": "sp_são_paulo_conte_lopes",
+    "id": "conte_lopes",
+    "n": "Conte Lopes",
+    "numero": "22190",
+    "partido": "PL",
+    "cargo": "estadual",
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "perfil": "Segurança Pública, Apoio Policial e Defesa da Sociedade",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+    "f": [
+      3,
+      3,
+      9,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "p": {
+      "saude": "Fiscalização dos estoques de remédios nos hospitais regionais paulistas.",
+      "educacao": "Apoio a escolas com gestão compartilhada e maior disciplina para proteção de professores contra a violência.",
+      "seguranca": "Projetos de valorização salarial e jurídica para policiais civis e militares de São Paulo em exercício de combate ao crime.",
+      "emprego": "Incentivo à geração de empregos industriais no interior paulista com infraestrutura viária de qualidade."
+    },
+    "tags": [
+      "Segurança",
+      "Saúde",
+      "Educação"
+    ],
+    "propostas_total": 4,
+    "propostas_destaque": {
+      "saude": "Fiscalização dos estoques de remédios nos hospitais regionais paulistas.",
+      "seguranca": "Projetos de valorização salarial e jurídica para policiais civis e militares de São Paulo em exercício de combate ao crime.",
+      "educacao": "Apoio a escolas com gestão compartilhada e maior disciplina para proteção de professores contra a violência."
+    },
+    "fonte": "TSE DivulgaCandContas / Planos de Governo Oficiais (Scraping & NLP)",
+    "atualizado_em": "2026-10-20T13:23:31.160260"
+  }
+]
