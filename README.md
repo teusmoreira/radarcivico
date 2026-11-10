@@ -18,13 +18,15 @@ O **Radar Cívico** analisa o que a população mais demanda em nível municipal
 
 | Arquivo | Função / Descrição |
 | :--- | :--- |
-| [Radar Cívico.html](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/Radar%20C%C3%ADvico.html) | **Interface Frontend**: Aplicação web com design responsivo, status do MongoDB, filtros rápidos por eixo, abas de cargos e cálculo de sobreposição matemática. Funciona tanto standalone quanto conectado à API. |
-| [scraper.py](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/scraper.py) | **Algoritmo de Web Scraping & NLP**: Coleta candidatos e programas de governo oficiais, tokeniza e categoriza compromissos em Saúde, Segurança e Educação, calcula vetores temáticos `f` e grava no MongoDB e em JSON. |
-| [server.py](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/server.py) | **Servidor Backend REST API**: Conecta ao MongoDB (`mongodb://localhost:27017`), expõe rotas `/api/status`, `/api/candidates`, `/api/cities`, `/api/scrape` e serve o frontend. Possui fallback transparente quando o banco estiver offline. |
-| [mongodb_seed.json](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/mongodb_seed.json) | **Exportação do Banco de Dados**: Dump estruturado no formato oficial do MongoDB com coleções `candidates`, `cities` e `states`. |
-| [candidates.json](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/candidates.json) | **Coleção de Candidatos**: Base em formato JSON Array contendo todos os 24 candidatos processados, com fotos, partidos, números, perfis e propostas. |
-| [init_mongo.py](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/init_mongo.py) | **Script de Inicialização do MongoDB**: Conecta via `pymongo`, cria as coleções, índices de busca textual e grava os documentos no banco `radar_civico`. |
-| [mongo_setup.js](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/mongo_setup.js) | **Script para Mongosh / Shell**: Configuração de schemas e índices de texto para execução via console do MongoDB. |
+| [streamlit_app.py](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/streamlit_app.py) | **Aplicação Streamlit (Principal)**: Ponto de entrada `.py` para hospedagem no **Streamlit Community Cloud**, com visualização completa do Radar Cívico, filtros nativos, métricas e exportação de dados. |
+| [requirements.txt](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/requirements.txt) | **Dependências do Projeto**: Bibliotecas Python necessárias (`streamlit`, `pandas`, `pymongo`, `requests`) para build automatizado no Streamlit Cloud. |
+| [Radar Cívico.html](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/Radar%20C%C3%ADvico.html) | **Interface Frontend**: Aplicação web com design responsivo, status do MongoDB, filtros rápidos por eixo, abas de cargos e cálculo de sobreposição matemática. |
+| [candidates.json](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/candidates.json) | **Coleção de Candidatos**: Base em formato JSON Array contendo todos os 66 candidatos com fotos oficiais reais (TSE, portais legislativos e Wikimedia Commons), partidos, números, perfis e propostas. |
+| [mongodb_seed.json](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/mongodb_seed.json) | **Exportação do Banco de Dados**: Dump estruturado no formato oficial do MongoDB com coleções `candidates`, `cities` e `states`. |
+| [scraper.py](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/scraper.py) | **Algoritmo de Web Scraping & NLP**: Coleta candidatos e programas de governo oficiais, tokeniza e categoriza compromissos em Saúde, Segurança e Educação, calcula vetores temáticos `f` e grava no MongoDB e em JSON. |
+| [server.py](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/server.py) | **Servidor Backend REST API**: Conecta ao MongoDB (`mongodb://localhost:27017`), expõe rotas `/api/status`, `/api/candidates`, `/api/cities`, `/api/scrape` e serve o frontend. |
+| [init_mongo.py](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/init_mongo.py) | **Script de Inicialização do MongoDB**: Conecta via `pymongo`, cria as coleções, índices de busca textual e grava os documentos no banco `radar_civico`. |
+| [importar.py](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/importar.py) | **Importador para MongoDB Atlas (Nuvem)**: Carrega `candidates.json` diretamente na nuvem do MongoDB Atlas. |
 
 ---
 
@@ -82,13 +84,30 @@ O **Radar Cívico** analisa o que a população mais demanda em nível municipal
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Executar e Hospedar
 
-### Opção 1: Visualização Direta no Navegador (Zero Configuração)
-Basta abrir com dois cliques o arquivo [Radar Cívico.html](file:///c:/Users/SY015450/Downloads/Radar%20C%C3%ADvico/Radar%20C%C3%ADvico.html) em qualquer navegador web. Ele carrega automaticamente todo o banco de candidatos e cidades com processamento NLP embutido.
+### Opção 1: Streamlit Community Cloud (Hospedagem em Nuvem)
+1. Crie ou acesse o repositório no GitHub (ex: `teusmoreira/radarcivico`).
+2. Acesse [share.streamlit.io](https://share.streamlit.io).
+3. Selecione o repositório, branch `main` e defina **Main file path** como:
+   ```text
+   streamlit_app.py
+   ```
+4. Clique em **Deploy!** O Streamlit Cloud instalará as dependências do `requirements.txt` e iniciará a aplicação automaticamente.
 
-### Opção 2: Servidor Completo com API REST
-Execute no terminal PowerShell:
+### Opção 2: Executar Localmente via Streamlit
+Execute no terminal:
+```powershell
+streamlit run streamlit_app.py
+```
+Acesse no navegador:
+👉 **http://localhost:8501**
+
+### Opção 3: Visualização Direta no Navegador (HTML Standalone)
+Basta abrir com dois cliques o arquivo [Radar Cívico.html](file:///c:/Users/SY015450/OneDrive%20-%20Centro%20Paula%20Souza/Radar%20C%C3%ADvico/Radar%20C%C3%ADvico.html) em qualquer navegador web. Ele carrega todo o banco de candidatos e cidades com processamento NLP embutido.
+
+### Opção 4: Servidor Completo com API REST
+Execute no terminal:
 ```powershell
 python server.py
 ```

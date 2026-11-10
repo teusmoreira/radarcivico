@@ -1,3 +1,8 @@
+
+
+
+
+
 /**
  * Radar Cívico - Script de Configuração e Importação para MongoDB
  * 
@@ -17,19 +22,19 @@ print("=== Inicializando Banco de Dados: " + dbName + " ===");
 targetDb.candidates.createIndex({ cargo: 1, uf: 1, cidade: 1 });
 targetDb.candidates.createIndex({ uf: 1 });
 targetDb.candidates.createIndex({ tags: 1 });
-targetDb.candidates.createIndex({ 
-    n: "text", 
-    perfil: "text", 
-    "propostas_destaque.saude": "text", 
-    "propostas_destaque.seguranca": "text", 
-    "propostas_destaque.educacao": "text" 
-}, { 
-    weights: { 
-        "propostas_destaque.saude": 5, 
-        "propostas_destaque.seguranca": 5, 
-        "propostas_destaque.educacao": 5, 
-        n: 3, 
-        perfil: 2 
+targetDb.candidates.createIndex({
+    n: "text",
+    perfil: "text",
+    "propostas_destaque.saude": "text",
+    "propostas_destaque.seguranca": "text",
+    "propostas_destaque.educacao": "text"
+}, {
+    weights: {
+        "propostas_destaque.saude": 5,
+        "propostas_destaque.seguranca": 5,
+        "propostas_destaque.educacao": 5,
+        n: 3,
+        perfil: 2
     },
     name: "TextSearchIndex"
 });

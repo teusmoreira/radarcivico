@@ -237,7 +237,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'Campinas',
                 'perfil': 'Médico, Gestão Hospitalar e Continuidade',
-                'foto': 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/2024_D%C3%81RIO_SAADI_CANDIDATO_PREFEITO_SP_CAMPINAS_TSE_(250001918263).jpg',
                 'propostas_raw': [
                     "Consolidação e ampliação do Hospital Municipal Mário Gatti e do hospital pediátrico Mário Gattinho, com descentralização de consultas especializadas e novos leitos.",
                     "Expansão do Poupatempo da Saúde e do programa de telessaúde com agendamento digital para zerar filas de exames laboratoriais e ultrassonografias.",
@@ -258,7 +258,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'Campinas',
                 'perfil': 'Médico Sanitarista, Saúde Preventiva e Direitos Sociais',
-                'foto': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/2020_PEDRO_TOURINHO_CANDIDATO_PREFEITO_SP_CAMPINAS_TSE_(250000843455).jpg',
                 'propostas_raw': [
                     "Reestruturação total da Atenção Básica em Campinas com fortalecimento das Unidades Básicas de Saúde (UBSs) e ampliação expressiva de médicos da Saúde da Família.",
                     "Criação de mutirões regionalizados de exames e consultas especializadas, valorizando servidores do SUS e combatendo a terceirização precarizada.",
@@ -279,7 +279,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'Campinas',
                 'perfil': 'Articulação Parlamentar, Obras e Eficiência Fiscal',
-                'foto': 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Rafa_Zimbaldi_Candidato_a_Prefeito_de_Campinas_2024_-_TSE.jpg',
                 'propostas_raw': [
                     "Otimização rigorosa dos contratos de gestão de saúde pública e auditoria nas filas de cirurgias eletivas represadas em Campinas.",
                     "Criação de policlínicas descentralizadas em quatro macrorregiões da cidade para levar exames de média complexidade mais perto dos moradores.",
@@ -302,7 +302,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Infraestrutura Urbana, Investimentos e Parcerias',
-                'foto': 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Nunes,_prefeito_de_S%C3%A3o_Paulo.jpg',
                 'propostas_raw': [
                     "Modernização e reformas de mais de 80 Unidades Básicas de Saúde (UBSs) e conclusão das obras dos novos hospitais municipais.",
                     "Ampliação das teleconsultas pela plataforma municipal Avança Saúde SP para agilizar laudos e consultas com especialistas.",
@@ -323,7 +323,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Habitação Popular, Inclusão Social e Serviços Públicos',
-                'foto': 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Guilherme_Boulos_(cropped).jpg',
                 'propostas_raw': [
                     "Criação do 'Poupatempo da Saúde' em todas as subprefeituras de São Paulo com exames, consultas especializadas e entrega de remédios com hora marcada.",
                     "Contratação emergencial de médicos especialistas e enfermeiros para as UBSs da periferia e valorização dos profissionais da saúde.",
@@ -344,7 +344,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Educação Pública, Inovação Tecnológica e Gestão Técnica',
-                'foto': 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Tabata_Amaral_em_mar%C3%A7o_de_2019_(cropped_2).jpg',
                 'propostas_raw': [
                     "Digitalização integrada do prontuário eletrônico municipal de saúde para acabar com perdas de exames e filas duplicadas no SUS da capital.",
                     "Centros Municipais de Saúde Mental com psiquiatras, psicólogos e equipes de apoio comunitário para jovens e famílias.",
@@ -367,7 +367,7 @@ class CandidateScraper:
                 'uf': 'RJ',
                 'cidade': 'Rio de Janeiro',
                 'perfil': 'Grandes Obras, Saúde Familiar e Revitalização',
-                'foto': 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Foto_oficial_de_Eduardo_Paes.jpg',
                 'propostas_raw': [
                     "Expansão dos Super Centros Cariocas de Saúde para as Zonas Norte e Oeste do Rio, reduzindo o tempo de espera de cirurgias e exames de imagem.",
                     "Consolidação de 100% de cobertura da atenção primária com Clínicas da Família modernizadas e programa de combate à dengue.",
@@ -388,7 +388,7 @@ class CandidateScraper:
                 'uf': 'RJ',
                 'cidade': 'Rio de Janeiro',
                 'perfil': 'Segurança Pública, Combate a Facções e Ordem Urbana',
-                'foto': 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Ramagem.jpg',
                 'propostas_raw': [
                     "Armamento integral e modernização tática da Guarda Municipal do Rio para atuar no patrulhamento ostensivo em parceria com a Polícia Militar.",
                     "Criação do programa 'Forças do Rio' com cerco inteligente, drones de alta resolução e inteligência policial contra a atuação de milícias e facções.",
@@ -411,7 +411,7 @@ class CandidateScraper:
                 'uf': 'MG',
                 'cidade': 'Belo Horizonte',
                 'perfil': 'Gestão Orçamentária, Macrodrenagem e Equilíbrio',
-                'foto': 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Vice-prefeito_Fuad_Noman.jpg',
                 'propostas_raw': [
                     "Expansão e reforma das UPAs municipais e dos Centros de Saúde de Belo Horizonte, com ampliação de equipes de saúde da família.",
                     "Implementação de centro de consultas especializadas digitais para reduzir o tempo de espera de exames complexos.",
@@ -434,7 +434,7 @@ class CandidateScraper:
                 'uf': 'BA',
                 'cidade': 'Salvador',
                 'perfil': 'Gestão Popular, Turismo e Obras Urbanas',
-                'foto': 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Reis_(foto_oficial_para_o_TSE).png',
                 'propostas_raw': [
                     "Construção de novos Multicentros de Saúde em Salvador com atendimento odontológico e exames diagnósticos rápidos.",
                     "Ampliação de Unidades de Pronto Atendimento (UPAs) e oferta de farmácias com medicamentos essenciais 24 horas.",
@@ -457,7 +457,7 @@ class CandidateScraper:
                 'uf': 'PE',
                 'cidade': 'Recife',
                 'perfil': 'Inovação Digital, Educação e Infraestrutura Social',
-                'foto': 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Jo%C3%A3o_Henrique_Campos,_January_2025_(cropped).jpg',
                 'propostas_raw': [
                     "Ampliação do Hospital da Mulher e dos Centros Comunitários da Paz (COMPAZ) com serviços integrados de saúde e assistência familiar.",
                     "Agendamento 100% digital pelo app 'Conecta Recife' para zerar filas de exames laboratoriais e consultas médicas.",
@@ -480,7 +480,7 @@ class CandidateScraper:
                 'uf': 'PR',
                 'cidade': 'Curitiba',
                 'perfil': 'Planejamento Urbano, Sustentabilidade e Serviços Públicos',
-                'foto': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Eduardo_Pimentel_2024.jpg',
                 'propostas_raw': [
                     "Fortalecimento das Unidades de Pronto Atendimento (UPAs) de Curitiba e expansão do teleatendimento com médicos da família.",
                     "Criação de novos centros de especialidades pediátricas e redução do tempo de espera para consultas odontológicas.",
@@ -503,7 +503,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'Cotia',
                 'perfil': 'Desenvolvimento Social, Saúde Básica e Educação',
-                'foto': 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/2024_%C3%82NGELA_MALUF_CANDIDATO_PREFEITO_SP_COTIA_TSE_(250001920602).jpg',
                 'propostas_raw': [
                     "Ampliação do Hospital Regional de Cotia e das UBSs dos distritos de Caucaia do Alto e Granja Viana com mais médicos especialistas.",
                     "Criação do programa de agendamento online de consultas para diminuir a superlotação na UPA Atalaia.",
@@ -524,7 +524,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'Cotia',
                 'perfil': 'Segurança Comunitária, Descentralização e Gestão',
-                'foto': 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/2024_WELINGTON_FORMIGA_CANDIDATO_PREFEITO_SP_COTIA_TSE.jpg',
                 'propostas_raw': [
                     "Auditoria e reorganização dos postos de atendimento de saúde de Cotia para garantir remédios contínuos nas farmácias populares.",
                     "Ampliação dos mutirões de saúde preventiva nos finais de semana para exames cardiológicos e ginecológicos.",
@@ -547,7 +547,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Infraestrutura Regional, Segurança Pública e Desestatização',
-                'foto': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Governador_do_Estado_de_S%C3%A3o_Paulo,_Tarc%C3%ADsio_de_Freitas_-_Foto_Oficial.jpg',
                 'propostas_raw': [
                     "Ampliação dos Hospitais Regionais e criação das policlínicas estaduais de diagnóstico para exames de alta complexidade em todas as regiões administrativas de São Paulo.",
                     "Digitalização da regulação de vagas hospitalares e prontuário estadual unificado para transferências rápidas de pacientes graves no SUS.",
@@ -568,7 +568,7 @@ class CandidateScraper:
                 'uf': 'RJ',
                 'cidade': 'Rio de Janeiro',
                 'perfil': 'Segurança Integrada, Infraestrutura e Apoio aos Municípios',
-                'foto': 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Cl%C3%A1udio_Castro,_governador_do_Rio_de_Janeiro.jpg',
                 'propostas_raw': [
                     "Reforma e reequipamento dos grandes hospitais estaduais (Alberto Torres, Azevedo Lima, Getúlio Vargas) com leitos de UTI humanizados.",
                     "Redução de filas de cirurgias cardíacas e ortopédicas através do programa Opera RJ em parceria com clínicas contratadas.",
@@ -589,7 +589,7 @@ class CandidateScraper:
                 'uf': 'MG',
                 'cidade': 'Belo Horizonte',
                 'perfil': 'Austeridade Fiscal, Desburocratização e Ensino Técnico',
-                'foto': 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Romeu_Zema_2025.jpg',
                 'propostas_raw': [
                     "Conclusão e entrega das obras de hospitais regionais inacabados no interior de Minas Gerais (Divinópolis, Governador Valadares, Teófilo Otoni).",
                     "Descentralização dos recursos de saúde para municípios através do programa 'Valadares e Saúde em Rede'.",
@@ -610,7 +610,7 @@ class CandidateScraper:
                 'uf': 'BA',
                 'cidade': 'Salvador',
                 'perfil': 'Desenvolvimento do Semiárido, Educação Integral e Saúde Regional',
-                'foto': 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Jer%C3%B4nimo_2024.jpg',
                 'propostas_raw': [
                     "Interiorização dos serviços de alta complexidade com os novos Hospitais Regionais e policlínicas de saúde consorciadas no interior da Bahia.",
                     "Ampliação dos serviços de oncologia e tratamento de hemodiálise nas macrorregiões baianas.",
@@ -633,7 +633,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Ciência, Tecnologia e Defesa Nacional',
-                'foto': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Marcos_Pontes.jpg',
                 'propostas_raw': [
                     "Destinação de emendas parlamentares para modernização de laboratórios de hospitais universitários e centros de pesquisa oncológica no SUS.",
                     "Incentivo à telemedicina e tecnologias digitais de triagem para otimizar filas hospitalares em São Paulo.",
@@ -654,7 +654,7 @@ class CandidateScraper:
                 'uf': 'RJ',
                 'cidade': 'Rio de Janeiro',
                 'perfil': 'Saúde Especializada, Inclusão de Pessoas com Deficiência e Esporte',
-                'foto': 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Rom%C3%A1rio_em_2015.jpg',
                 'propostas_raw': [
                     "Legislação federal e emendas parlamentares para garantir medicamentos de alto custo e tratamento para doenças raras no SUS.",
                     "Centros de referência e apoio multiprofissional para famílias e crianças diagnosticadas com autismo (TEA) e Síndrome de Down.",
@@ -677,7 +677,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Segurança Pública, Combate às Facções e Rigor Penal',
-                'foto': 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Capit%C3%A3o_Derrite.jpg',
                 'propostas_raw': [
                     "Projetos de lei federais para acabar com as saídas temporárias de presos condenados por crimes violentos (saidões).",
                     "Aumento de recursos federais do Fundo Nacional de Segurança Pública para armamento moderno e viaturas da polícia e guardas municipais.",
@@ -698,7 +698,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Direitos Humanos, Saúde Integral e Educação Inclusiva',
-                'foto': 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://commons.wikimedia.org/wiki/Special:FilePath/Erika_Hilton_em_2019.jpg',
                 'propostas_raw': [
                     "Defesa irrestrita do orçamento do SUS, ampliação da atenção psicossocial e garantia de atendimento humanizado para populações vulneráveis.",
                     "Piso salarial nacional digno para agentes comunitários de saúde e técnicos de enfermagem.",
@@ -721,7 +721,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Educação Pública, Valorização do Magistério e Servidores',
-                'foto': 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://www.al.sp.gov.br/repositorio/deputado/fotos/carlos_giannazi.jpg',
                 'propostas_raw': [
                     "Defesa intransigente do piso salarial dos professores e revogação das reformas que precarizam a carreira docente em SP.",
                     "Fiscalização das condições físicas, térmicas e de segurança das escolas estaduais da rede paulista.",
@@ -742,7 +742,7 @@ class CandidateScraper:
                 'uf': 'SP',
                 'cidade': 'São Paulo',
                 'perfil': 'Segurança Pública, Apoio Policial e Defesa da Sociedade',
-                'foto': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
+                'foto': 'https://www.al.sp.gov.br/repositorio/deputado/fotos/conte_lopes.jpg',
                 'propostas_raw': [
                     "Projetos de valorização salarial e jurídica para policiais civis e militares de São Paulo em exercício de combate ao crime.",
                     "Aumento de recursos do orçamento estadual para compra de armamento pesado e viaturas blindadas da ROTA e Força Tática.",
